@@ -33,7 +33,7 @@ function App() {
             </Routes>
           </main>
           <footer className="bg-black border-t border-white pt-6 text-center">
-            © 2025 NordLightin Studio — Все права защищены.
+            © 2025 NordLighting Studio — Все права защищены.
           </footer>
         </div>
       </Router>
