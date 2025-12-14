@@ -17,7 +17,7 @@ const Header = () => {
     <header className="bg-black rounded-xl m-3 border-white border-solid border-2 fixed w-full z-50">
       <div className="flex justify-between items-center p-4">
         <Link to="/">
-          <img src="/logo_mini.webp" alt="Logo" className="w-20" />
+          <img src="/Logo_mini.webp" alt="Logo" className="w-20" />
         </Link>
 
         <nav className="flex space-x-6">
