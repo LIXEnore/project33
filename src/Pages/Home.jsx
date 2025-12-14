@@ -24,7 +24,7 @@ const Home = () => {
     <div className="text-center">
       {/* Логотип */}
       <div className="mb-10">
-        <img src="/logo.webp" alt="Far Home" className="mx-auto w-1/2 md:w-1/3" />
+        <img src="/Logo.webp" alt="Far Home" className="mx-auto w-1/2 md:w-1/3" />
       </div>
 
       {/* Описание */}
