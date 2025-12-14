@@ -3,7 +3,7 @@ import React from 'react';
 const Developers = () => {
   return (
     <div className="text-center">
-      <img className='' src="/NLS_Logo(Clear).webp" alt="" />
+      <img className='mx-auto' src="/NLS_Logo(Clear).webp" alt="" />
       <h1 className="text-3xl mb-4">NORTHLIGHTING Studio</h1>
       <p className="max-w-2xl mx-auto">
         NorthLighting Studio - Не большая инди студия не иммеющая издателя, вседа были сами по себе
